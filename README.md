@@ -7,6 +7,7 @@
   <a href="http://t.me/Azamat_dzagoi">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+  <h4>Связаться со мной: azamatdzag@mail.ru<h4>
 </div>
 </div>
 <h1>
